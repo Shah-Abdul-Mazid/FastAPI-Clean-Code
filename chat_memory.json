@@ -1,0 +1,502 @@
+{
+    "1": {
+        "1": [
+            {
+                "role": "user",
+                "message": "Hi i am Ezan and You ?",
+                "timestamp": "2026-02-06T02:03:57.905403"
+            },
+            {
+                "role": "assistant",
+                "message": "Hello Ezan and you ?! How can I help you today?",
+                "timestamp": "2026-02-06T02:03:57.905403"
+            },
+            {
+                "role": "user",
+                "message": "I love Teheri So much ..",
+                "timestamp": "2026-02-06T02:04:24.612574"
+            },
+            {
+                "role": "assistant",
+                "message": "Got it! I've added that to our conversation history.",
+                "timestamp": "2026-02-06T02:04:24.612574"
+            },
+            {
+                "role": "user",
+                "message": "What is my name?",
+                "timestamp": "2026-02-06T02:04:41.609606"
+            },
+            {
+                "role": "assistant",
+                "message": "Your name is Ezan and you ?.",
+                "timestamp": "2026-02-06T02:04:41.609606"
+            },
+            {
+                "role": "user",
+                "message": "What do you love ?",
+                "timestamp": "2026-02-06T02:05:03.469082"
+            },
+            {
+                "role": "assistant",
+                "message": "Got it! I've added that to our conversation history.",
+                "timestamp": "2026-02-06T02:05:03.469082"
+            },
+            {
+                "role": "user",
+                "message": "I am from dhaka.",
+                "timestamp": "2026-02-06T02:05:23.901347"
+            },
+            {
+                "role": "assistant",
+                "message": "Got it! I've added that to our conversation history.",
+                "timestamp": "2026-02-06T02:05:23.901347"
+            },
+            {
+                "role": "user",
+                "message": "Where i m from ?",
+                "timestamp": "2026-02-06T02:05:40.132024"
+            },
+            {
+                "role": "assistant",
+                "message": "Got it! I've added that to our conversation history.",
+                "timestamp": "2026-02-06T02:05:40.132024"
+            },
+            {
+                "role": "user",
+                "message": "Dhaka what ?",
+                "timestamp": "2026-02-06T02:05:53.712065"
+            },
+            {
+                "role": "assistant",
+                "message": "Got it! I've added that to our conversation history.",
+                "timestamp": "2026-02-06T02:05:53.712065"
+            },
+            {
+                "role": "user",
+                "message": "Waht is my name ?",
+                "timestamp": "2026-02-06T02:06:08.006978"
+            },
+            {
+                "role": "assistant",
+                "message": "Got it! I've added that to our conversation history.",
+                "timestamp": "2026-02-06T02:06:08.006978"
+            },
+            {
+                "role": "user",
+                "message": "What is my name ?",
+                "timestamp": "2026-02-06T02:06:21.197434"
+            },
+            {
+                "role": "assistant",
+                "message": "Your name is Ezan and you ?.",
+                "timestamp": "2026-02-06T02:06:21.197434"
+            },
+            {
+                "role": "user",
+                "message": "Hi I am Ezan.",
+                "timestamp": "2026-02-06T02:11:21.447933"
+            },
+            {
+                "role": "assistant",
+                "message": "Hello Ezan! How can I help you today?",
+                "timestamp": "2026-02-06T02:11:21.447933"
+            },
+            {
+                "role": "user",
+                "message": "Hi I am from Dhaka",
+                "timestamp": "2026-02-06T02:11:33.657342"
+            },
+            {
+                "role": "assistant",
+                "message": "Hello From! How can I help you today?",
+                "timestamp": "2026-02-06T02:11:33.657342"
+            },
+            {
+                "role": "user",
+                "message": "Hi I live in Dhaka",
+                "timestamp": "2026-02-06T02:12:35.745061"
+            },
+            {
+                "role": "assistant",
+                "message": "Hello From! How can I help you today?",
+                "timestamp": "2026-02-06T02:12:35.745061"
+            },
+            {
+                "role": "user",
+                "message": "I live in Dhaka",
+                "timestamp": "2026-02-06T02:12:42.935982"
+            },
+            {
+                "role": "assistant",
+                "message": "Got it! I've added that to our conversation history.",
+                "timestamp": "2026-02-06T02:12:42.935982"
+            },
+            {
+                "role": "user",
+                "message": "What is my name?",
+                "timestamp": "2026-02-06T02:13:10.028473"
+            },
+            {
+                "role": "assistant",
+                "message": "Your name is From.",
+                "timestamp": "2026-02-06T02:13:10.028473"
+            },
+            {
+                "role": "user",
+                "message": "My Name is Ezan",
+                "timestamp": "2026-02-06T02:13:30.715524"
+            },
+            {
+                "role": "assistant",
+                "message": "Got it! I've added that to our conversation history.",
+                "timestamp": "2026-02-06T02:13:30.715524"
+            },
+            {
+                "role": "user",
+                "message": "What is my name?",
+                "timestamp": "2026-02-06T02:13:42.124627"
+            },
+            {
+                "role": "assistant",
+                "message": "Your name is ezan.",
+                "timestamp": "2026-02-06T02:13:42.124627"
+            },
+            {
+                "role": "user",
+                "message": "I live in Dhaka",
+                "timestamp": "2026-02-06T02:13:52.663059"
+            },
+            {
+                "role": "assistant",
+                "message": "Got it! I've added that to our conversation history.",
+                "timestamp": "2026-02-06T02:13:52.663059"
+            },
+            {
+                "role": "user",
+                "message": "Where do I live?",
+                "timestamp": "2026-02-06T02:14:02.857582"
+            },
+            {
+                "role": "assistant",
+                "message": "Got it! I've added that to our conversation history.",
+                "timestamp": "2026-02-06T02:14:02.857582"
+            },
+            {
+                "role": "user",
+                "message": "Where am I from?",
+                "timestamp": "2026-02-06T02:14:56.117687"
+            },
+            {
+                "role": "assistant",
+                "message": "Got it! I've added that to our conversation history.",
+                "timestamp": "2026-02-06T02:14:56.117687"
+            },
+            {
+                "role": "user",
+                "message": "What is my name ?",
+                "timestamp": "2026-02-06 02:16:17"
+            },
+            {
+                "role": "assistant",
+                "message": "Your name is ezan.",
+                "timestamp": "2026-02-06 02:16:17"
+            },
+            {
+                "role": "user",
+                "message": "Where do i live?",
+                "timestamp": "2026-02-06 02:16:51"
+            },
+            {
+                "role": "assistant",
+                "message": "You are located in dhaka.",
+                "timestamp": "2026-02-06 02:16:51"
+            },
+            {
+                "role": "user",
+                "message": "I worked at Softvence as AI Developer?",
+                "timestamp": "2026-02-06 02:17:13"
+            },
+            {
+                "role": "assistant",
+                "message": "You work at/as: not mentioned yet.",
+                "timestamp": "2026-02-06 02:17:13"
+            },
+            {
+                "role": "user",
+                "message": "I worked in Softvence as AI Developer?",
+                "timestamp": "2026-02-06 02:17:27"
+            },
+            {
+                "role": "assistant",
+                "message": "You work at/as: not mentioned yet.",
+                "timestamp": "2026-02-06 02:17:27"
+            },
+            {
+                "role": "user",
+                "message": "I worked in Softvence",
+                "timestamp": "2026-02-06 02:17:38"
+            },
+            {
+                "role": "assistant",
+                "message": "Got it! I've updated your profile in my memory.",
+                "timestamp": "2026-02-06 02:17:38"
+            },
+            {
+                "role": "user",
+                "message": "Where Do i Work?",
+                "timestamp": "2026-02-06 02:18:06"
+            },
+            {
+                "role": "assistant",
+                "message": "You work at/as: not mentioned yet.",
+                "timestamp": "2026-02-06 02:18:06"
+            },
+            {
+                "role": "user",
+                "message": "Where do I work??",
+                "timestamp": "2026-02-06 02:18:48"
+            },
+            {
+                "role": "assistant",
+                "message": "You work at/as: not mentioned yet.",
+                "timestamp": "2026-02-06 02:18:48"
+            },
+            {
+                "role": "user",
+                "message": "I work in softvence?",
+                "timestamp": "2026-02-06 02:19:00"
+            },
+            {
+                "role": "assistant",
+                "message": "You work at/as: not mentioned yet.",
+                "timestamp": "2026-02-06 02:19:00"
+            },
+            {
+                "role": "user",
+                "message": "I work softvence?",
+                "timestamp": "2026-02-06 02:19:09"
+            },
+            {
+                "role": "assistant",
+                "message": "You work at/as: not mentioned yet.",
+                "timestamp": "2026-02-06 02:19:09"
+            },
+            {
+                "role": "user",
+                "message": "I work softvence company?",
+                "timestamp": "2026-02-06 02:19:24"
+            },
+            {
+                "role": "assistant",
+                "message": "You work at/as: not mentioned yet.",
+                "timestamp": "2026-02-06 02:19:24"
+            },
+            {
+                "role": "user",
+                "message": "I work at Google as a Developer",
+                "timestamp": "2026-02-06 02:19:49"
+            },
+            {
+                "role": "assistant",
+                "message": "Got it! I've updated your profile in my memory.",
+                "timestamp": "2026-02-06 02:19:49"
+            },
+            {
+                "role": "user",
+                "message": "I work at SoftVence as an AI Developer",
+                "timestamp": "2026-02-06 02:20:10"
+            },
+            {
+                "role": "assistant",
+                "message": "Got it! I've updated your profile in my memory.",
+                "timestamp": "2026-02-06 02:20:10"
+            },
+            {
+                "role": "user",
+                "message": "What do you know about me?",
+                "timestamp": "2026-02-06 02:20:36"
+            },
+            {
+                "role": "assistant",
+                "message": "Here is everything I've remembered about you:\n- Name: ezan\n- Loves: teheri so much \n- Profession: from dhaka\n- Location: dhaka\n- Company: softvence as an ai developer",
+                "timestamp": "2026-02-06 02:20:36"
+            },
+            {
+                "role": "user",
+                "message": "My Profession is AI Developer",
+                "timestamp": "2026-02-06 02:21:43"
+            },
+            {
+                "role": "assistant",
+                "message": "Got it! I've updated your profile in my memory.",
+                "timestamp": "2026-02-06 02:21:43"
+            },
+            {
+                "role": "user",
+                "message": "What do you know about me ?",
+                "timestamp": "2026-02-06 02:21:58"
+            },
+            {
+                "role": "assistant",
+                "message": "Here is everything I've remembered about you:\n- Name: ezan\n- Loves: teheri so much \n- Profession: ai developer\n- Location: dhaka\n- Company: softvence as an ai developer",
+                "timestamp": "2026-02-06 02:21:58"
+            },
+            {
+                "role": "user",
+                "message": "I am Jannat Farhana Popy",
+                "timestamp": "2026-02-06 02:41:27"
+            },
+            {
+                "role": "assistant",
+                "message": "Got it! I've updated your profile in my memory.",
+                "timestamp": "2026-02-06 02:41:27"
+            },
+            {
+                "role": "user",
+                "message": "What is my name?",
+                "timestamp": "2026-02-06 02:42:04"
+            },
+            {
+                "role": "assistant",
+                "message": "Your name is ezan.",
+                "timestamp": "2026-02-06 02:42:04"
+            },
+            {
+                "role": "user",
+                "message": "My name is Popy.",
+                "timestamp": "2026-02-06 02:42:33"
+            },
+            {
+                "role": "assistant",
+                "message": "Got it! I've updated your profile in my memory.",
+                "timestamp": "2026-02-06 02:42:33"
+            },
+            {
+                "role": "user",
+                "message": "What is my name?",
+                "timestamp": "2026-02-06 02:42:52"
+            },
+            {
+                "role": "assistant",
+                "message": "Your name is popy.",
+                "timestamp": "2026-02-06 02:42:52"
+            },
+            {
+                "role": "user",
+                "message": "Hi i am ezan and you ?",
+                "timestamp": "2026-02-06 03:24:29"
+            },
+            {
+                "role": "assistant",
+                "message": "Hi Ezan! I\u2019m your friendly AI assistant. How can I help you today?",
+                "timestamp": "2026-02-06 03:24:29"
+            },
+            {
+                "role": "user",
+                "message": "Can you tell me my name please?",
+                "timestamp": "2026-02-06 03:24:49"
+            },
+            {
+                "role": "assistant",
+                "message": "Your name is Popy.",
+                "timestamp": "2026-02-06 03:24:49"
+            },
+            {
+                "role": "user",
+                "message": "Who is Ezan?",
+                "timestamp": "2026-02-06 03:25:05"
+            },
+            {
+                "role": "assistant",
+                "message": "Ezan is the name you previously mentioned. If you'd like to tell me more about Ezan or clarify anything, feel free!",
+                "timestamp": "2026-02-06 03:25:05"
+            },
+            {
+                "role": "user",
+                "message": "What do you know about ezan?",
+                "timestamp": "2026-02-06 03:25:33"
+            },
+            {
+                "role": "assistant",
+                "message": "Ezan is an AI developer who loves teheri very much and is based in Dhaka, working at Softvence. If there's anything specific you'd like to discuss about Ezan, let me know!",
+                "timestamp": "2026-02-06 03:25:33"
+            },
+            {
+                "role": "user",
+                "message": "I am Ezan and you ?",
+                "timestamp": "2026-02-06 04:55:07"
+            },
+            {
+                "role": "assistant",
+                "message": "I\u2019m your personalized assistant! How can I assist you today, Ezan?",
+                "timestamp": "2026-02-06 04:55:07"
+            },
+            {
+                "role": "user",
+                "message": "Hi i am ezan and you ?",
+                "timestamp": "2026-02-06 04:56:25"
+            },
+            {
+                "role": "assistant",
+                "message": "Hi Ezan! I'm your AI assistant, here to help you with anything you need. What\u2019s on your mind today?",
+                "timestamp": "2026-02-06 04:56:25"
+            },
+            {
+                "role": "user",
+                "message": "who am i and what u know about me ?",
+                "timestamp": "2026-02-06 05:01:06"
+            },
+            {
+                "role": "assistant",
+                "message": "You are Ezan, an AI developer based in Dhaka, and you work at Softvence. You have a strong interest in teheri. If there\u2019s anything else you\u2019d like to share or ask, feel free!",
+                "timestamp": "2026-02-06 05:01:06"
+            }
+        ],
+        "string": [
+            {
+                "role": "user",
+                "message": "i am ezan and you ?",
+                "timestamp": "2026-02-06 04:58:24"
+            },
+            {
+                "role": "assistant",
+                "message": "Hi Ezan! I'm your personalized assistant. How can I help you today?",
+                "timestamp": "2026-02-06 04:58:24"
+            },
+            {
+                "role": "user",
+                "message": "What is my name ?",
+                "timestamp": "2026-02-06 05:00:40"
+            },
+            {
+                "role": "assistant",
+                "message": "Your name is Ezan. How can I assist you today?",
+                "timestamp": "2026-02-06 05:00:40"
+            }
+        ]
+    },
+    "2": {
+        "2": [
+            {
+                "role": "user",
+                "message": "Hi I am Ezan and You ?",
+                "timestamp": "2026-02-06 04:15:35"
+            },
+            {
+                "role": "assistant",
+                "message": "Hi Ezan! I'm your personalized AI assistant, here to help you with anything you need. How can I assist you today?",
+                "timestamp": "2026-02-06 04:15:35"
+            },
+            {
+                "role": "user",
+                "message": "Can you tell my name?",
+                "timestamp": "2026-02-06 04:16:06"
+            },
+            {
+                "role": "assistant",
+                "message": "Of course! Your name is Ezan. How can I help you today?",
+                "timestamp": "2026-02-06 04:16:06"
+            }
+        ]
+    }
+}
