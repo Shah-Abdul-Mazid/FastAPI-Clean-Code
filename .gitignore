@@ -1,0 +1,105 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE / editor settings
+.vscode/
+.idea/
+.ropeproject/
+.spyderproject
+.spyproject
+
+# mypy
+.mypy_cache/
+
+# Pyre
+.pyre/
+
+# Profiling
+.prof
+
+# IPython
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Sphinx
+docs/_build/
+
+# Local env files
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+*.sqlite
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Others
+pip-wheel-metadata/
+__pypackages__/
+
+# End of file
